@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Go-Lang/helper"
-	"Go-Lang/database"
-	_"Go-Lang/internal"
+	"go-lang/helper"
+	"go-lang/database"
+	_"go-lang/internal"
 	"fmt"
 )
 
